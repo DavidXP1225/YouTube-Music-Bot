@@ -49,7 +49,7 @@ __**Command list**__
 > \`search\` > **\`search [title]\`**
 > \`skip\`, \`stop\`,  \`pause\`, \`resume\`
 > \`nowplaying\`, \`queue\`, \`volume\``)
-            .setFooter("Made By Spexz");
+            .setFooter("Version: 1.5");
         message.channel.send(helpembed);
     }
     if (command === "play" || command === "p") {
